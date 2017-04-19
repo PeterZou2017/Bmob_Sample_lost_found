@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Bmob_Sample_lost_found/libs/picasso-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob_Sample_lost_found/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob_Sample_lost_found/libs/bmob_v3.1.1beta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
